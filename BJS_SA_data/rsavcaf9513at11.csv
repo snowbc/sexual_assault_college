@@ -1,0 +1,29 @@
+Bureau of Justice Statistics,,,
+Filename: rsavcaf9513at110.csv,,,
+"Appendix table 11. Standard errors for table 10: Rate of rape and sexual assault against female victims ages 18 to 24, by demographic characteristics and post-secondary enrollment status, 1995–2013",,,
+"Report title: Rape or sexual assault victimization among College-age  females , 1995-2013 NCJ 248471",,,
+"Data Source:  Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013",,,
+Author: Sofi Sinozich and Lynn Langton,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,
+,,,
+"Appendix table 11. Standard errors for table 10: Rate of rape and sexual assault against female victims ages 18 to 24, by demographic characteristics and post-secondary enrollment status, 1995–2013",,,
+,,Students,Nonstudents
+Age,,,
+,18–19,1,1
+,20–21,0.8,1
+,22–24,0.9,0.6
+Race/Hispanic origin,,,
+,White,0.7,0.7
+,Black,1.4,1
+,Hispanic ,1.1,0.7
+,Other,1.2,1.6
+Region,,,
+,Northeast,1.1,0.8
+,Midwest,1.2,1.2
+,South,0.8,0.7
+,West,1,1
+Location of residence,,,
+,Urban,0.8,0.8
+,Suburban,0.8,0.6
+,Rural,1.2,1.1
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,

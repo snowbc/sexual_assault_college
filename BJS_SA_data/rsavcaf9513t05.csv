@@ -1,0 +1,27 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: rsavcaf9513t05.csv,,,,,,,
+"Table 5. Presence of weapon and injury to victim in rape or sexual assault victimizations against females ages 18 to 24, by post-secondary enrollment status, 1995–2013",,,,,,,
+"Report title: Rape or sexual assault victimization among College-age  females , 1995-2013 NCJ 248471",,,,,,,
+"Data Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,,,,,
+Author: Sofi Sinozich and Lynn Langton,,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,,
+Date of version: 12/9/2014,,,,,,,
+ ,,,,,,,
+"Table 5. Presence of weapon and injury to victim in rape or sexual assault victimizations against females ages 18 to 24, by post-secondary enrollment status, 1995–2013",,,,,,,
+,,,,Students/a,,Nonstudents/b,
+Involving weapons,,,,100,%,100,%
+,No weapon,,,82,%,84,%
+,Weapon,,,11, !,12,
+,Don’t know,,,7,,4,
+Involving injuries,,,,100,%,100,%
+,No injury,,,43,%,37,
+,Injury,,,57,,63,
+,,Treatment for injuries/c,,100,%,100,%
+,,,No treatment,60,,63,
+,,,Any treatment,40,,37,
+Note: Detail may not sum to total due to rounding. Excludes a small percentage of female victims ages 18 to 24 with unknown enrollment status (less than 1%). See appendix table 6 for standard errors.,,,,,,,
+"! Interpret with caution; estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50%.",,,,,,,
+"a/Includes females ages 18 to 24 enrolled part time or full time in a post-secondary institution (i.e., college or university, trade school, or vocational school).",,,,,,,
+b/Includes female victims ages 18 to 24 not enrolled in a post-secondary institution.,,,,,,,
+c/Includes female victims ages 18 to 24 who were injured during the victimization. ,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,,,,,

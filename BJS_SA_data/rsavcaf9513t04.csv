@@ -1,0 +1,38 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: rsavcaf9513t04.csv,,,,,,,
+"Table 4. Location, victim activity, and time of day of the rape/sexual assault victimization among females ages 18 to 24, by post-secondary enrollment status, 1995–2013",,,,,,,
+"Report title: Rape or sexual assault victimization among College-age  females , 1995-2013 NCJ 248471",,,,,,,
+"Data Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,,,,,
+Author: Sofi Sinozich and Lynn Langton,,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,,
+Date of version: 12/9/2014,,,,,,,
+ ,,,,,,,
+"Table 4. Location, victim activity, and time of day of the rape/sexual assault victimization among females ages 18 to 24, by post-secondary enrollment status, 1995–2013",,,,,,,
+,,,Students/a,,,Nonstudents/b,
+Location where crime occurred,,,100,%,,100,%
+,At or near victim’s homec,,38,,,50, †
+,At or near home of friend/relative/,,,,,,
+  acquaintance,,,29,,,17, †
+,Commercial place/parking lot or garage,,16,,,15,
+,School/d,,4,, !,2, !
+,Open areas/public transportation/other/e,,13,,,16,
+Activity when crime occurred,,,100,%,,100,%
+,Traveling to or from other place/shopping or errands/leisure activity away from home,,51,,,29, †
+,Sleeping/other activities at home/c,,31,,,50, †
+,Working or traveling to work,,10,, !,16, ‡
+,Attending school or traveling to school/d,,5,, !,2, !‡
+,Other/unknown,,3,, !,4,
+Time of day,,,100,%,,100,%
+,Daytime (6 a.m. – 6 p.m.),,33,,,35,
+,Night (6 p.m. – 6 a.m.),,65,,,64,
+,Unknown,,3,, !,1, !
+Note: Detail may not sum to total due to rounding. Excludes a small percentage of female victims ages 18 to 24 with unknown enrollment status (less than 1%). See appendix 5 for standard errors.,,,,,,,
+"! Interpret with caution; estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50%.",,,,,,,
+† Nonstudent estimates are significantly different from student estimates at the 95% confidence level.,,,,,,,
+‡ Nonstudent estimates are significantly different from student estimates at the 90% confidence level.,,,,,,,
+"a/Includes female victims ages 18 to 24 enrolled part time or full time in a post-secondary institution (i.e., college or university, trade school, or vocational school).",,,,,,,
+b/Includes female victims ages 18 to 24 not enrolled in a post-secondary institution. ,,,,,,,
+"c/In the NCVS, the victim’s home is defined as the location of residence at the time of the interview.",,,,,,,
+d/Includes schools at any educational level regardless of whether the victim was a student at the location. ,,,,,,,
+"e/Includes locations such as an apartment yard; a park, field, or playground not on school property; a location on the street other than that immediately adjacent to home of the victim, a relative, or friend; in a station or depot for bus or train; on a plane; or in an airport.",,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,,,,,

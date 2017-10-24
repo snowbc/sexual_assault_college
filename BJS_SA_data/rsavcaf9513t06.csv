@@ -1,0 +1,23 @@
+Bureau of Justice Statistics,,,,,
+Filename: rsavcaf9513t06.csv,,,,,
+"Table 6. Victim–offender relationship in rape or sexual assault victimizations against females ages 18 to 24, by post-secondary enrollment status of victim, 1995–2013",,,,,
+"Report title: Rape or sexual assault victimization among College-age  females , 1995-2013 NCJ 248471",,,,,
+"Data Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,,,
+Author: Sofi Sinozich and Lynn Langton,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,
+Date of version: 12/9/2014,,,,,
+,,,,,
+"Table 6. Victim–offender relationship in rape or sexual assault victimizations against females ages 18 to 24, by post-secondary enrollment status of victim, 1995–2013",,,,,
+Victim–offender relationship,,Students/a,,Nonstudents/b,
+Stranger,,22,%,20,%
+Nonstranger,,78,%,80,%
+,Intimate partner/c,24,,34, †
+,Relative,2, !,1, !
+,Well-known/casual acquaintance,50,,37, †
+"Note: Detail may not sum to total due to rounding. Excludes a small percentage of victimizations in which the victim-offender relationship, number of offenders, or victim enrollment status was unknown. See appendix table 7 for standard errors.",,,,,
+"! Interpret with caution; estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50%.",,,,,
+† Nonstudent estimates are significantly different from student estimates at the 95% confidence level.,,,,,
+"a/Includes female victims ages 18 to 24 enrolled part time or full time in a post-secondary institution (i.e., college or university, trade school, or vocational school).",,,,,
+b/Includes female victims ages 18 to 24 not enrolled in a post-secondary institution.,,,,,
+"c/Includes former or current spouse, boyfriend, or girlfriend.",,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,,,

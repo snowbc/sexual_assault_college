@@ -1,0 +1,40 @@
+Bureau of Justice Statistics,,,,,,
+Filename: rsavcaf9513t10.csv,,,,,,
+"Table 10. Rate of rape and sexual assault against female victims ages 18 to 24, by demographic characteristics and post-secondary enrollment status, 1995–2013",,,,,,
+"Report title: Rape or sexual assault victimization among College-age  females , 1995-2013 NCJ 248471",,,,,,
+"Data Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,,,,
+Author: Sofi Sinozich and Lynn Langton,,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,
+ ,,,,,,
+"Table 10. Rate of rape and sexual assault against female victims ages 18 to 24, by demographic characteristics and post-secondary enrollment status, 1995–2013",,,,,,
+,,,,,,
+,,,,,,Ratio of nonstudent 
+Victim characteristic,,Students/a,,Nonstudents/b,,to student rate
+Age,,,,,,
+,18–19,6.6,,10.4, †,1.6
+,20–21,5.8,,8.9, †,1.5
+,22–24,6,,5.4,,0.9
+Race/Hispanic origin,,,,,,
+,White/c,6.7,,9.2, †,1.4
+,Black/c,6.4,,6.2,,1
+,Hispanic ,4.5,,4.5,,1
+,"Other/c,d",3.7, !,5.9,,1.6
+Region/e,,,,,,
+,Northeast,5.2,,4.1,,0.8
+,Midwest,8.3,,11,,1.3
+,South,4.7,,6.5, ‡,1.4
+,West,5.9,,8,,1.4
+Location of residence,,,,,,
+,Urban,6.6,,8.7, ‡,1.3
+,Suburban,6,,6.3,,1
+,Rural,4.6,,8.8, †,1.9
+Note: Detail may not sum to total due to rounding. See appendix table 11 for standard errors. ,,,,,,
+"! Interpret with caution; estimate based on 10 or fewer sample cases, or coefficient of variation is greater than 50%.",,,,,,
+† Nonstudent estimates are significantly different from student estimates at the 95% confidence level.,,,,,,
+‡ Nonstudent estimates are significantly different from student estimates at the 90% confidence level.,,,,,,
+"a/Per 1,000 females ages 18 to 24 enrolled part time or full time in a post-secondary institution (i.e., college or university, trade school, or vocational school).",,,,,,
+"b/Per 1,000 females ages 18 to 24 not enrolled in a post-secondary institution.",,,,,,
+c/Excludes persons of Hispanic or Latino origin.,,,,,,
+"d/Includes American Indian, Alaska Native, Asian, Native Hawaiian, and other Pacific Islander, and persons of two or more races.",,,,,,
+e/Includes data from 1996 through 2013 because information about region was not collected prior to 1996. ,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 1995–2013.",,,,,,
